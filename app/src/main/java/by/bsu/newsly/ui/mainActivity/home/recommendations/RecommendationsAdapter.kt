@@ -1,4 +1,3 @@
-// RecommendationsAdapter.kt
 package by.bsu.newsly.ui.mainActivity.home.recommendations
 
 import android.content.Intent

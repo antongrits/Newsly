@@ -1,4 +1,3 @@
-// BookmarkDao.kt
 package by.bsu.newsly.data.local.db.dao
 
 import androidx.room.Dao

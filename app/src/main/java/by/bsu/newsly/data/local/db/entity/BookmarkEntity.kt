@@ -1,4 +1,3 @@
-// BookmarkEntity.kt
 package by.bsu.newsly.data.local.db.entity
 
 import androidx.room.Entity

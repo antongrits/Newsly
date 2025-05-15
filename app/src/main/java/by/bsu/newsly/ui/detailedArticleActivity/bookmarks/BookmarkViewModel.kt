@@ -1,4 +1,3 @@
-// BookmarkViewModel.kt
 package by.bsu.newsly.ui.detailedArticleActivity.bookmarks
 
 import androidx.lifecycle.ViewModel
